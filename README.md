@@ -20,14 +20,14 @@ This project uses Linear Regression to predict housing prices based on features 
 
 ## 🚀 How to Run
 
-1. Download `task3_linear_regression.py`
+1. Download `house_price_predictor.py`
 2. Make sure required libraries are installed:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 3. Run the file:
 ```bash
-python task3_linear_regression.py
+python house_price_predictor.py
 ```
 
 ## ✅ Result
